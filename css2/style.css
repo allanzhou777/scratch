@@ -1,0 +1,59 @@
+p {
+    padding-top:1rem;
+    padding-bottom:1rem;
+    line-height: 175%;
+    color:#888;
+}
+.container {
+    padding-top: 4rem;
+    padding-bottom:4rem;
+}
+
+/* nav */
+
+.navbar {
+    padding: 1rem;
+}
+
+.card{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 3px 5px rgba(0,0,0,.04), 0 0 6px rgba(0,0,0,.05);
+      transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  padding: 14px 80px 18px 36px;
+  cursor: pointer;
+}
+
+.card:hover{
+     transform: scale(1.02);
+}
+
+
+
+h1.main-title {
+    padding-top: 12rem;
+    font-weight:500%;
+    font-size:375%;
+    line-height: 140%;
+}
+
+
+h1.site-title {
+    padding-top: 1rem;
+    padding-bottom:2rem;
+    font-weight:500%;
+}
+
+h3.site-title {
+    padding-top: 1rem;
+    padding-bottom:1rem;
+    font-weight:500%;
+}
+
+h4.site-title {
+    padding-top:1.5rem;
+    padding-bottom:1rem;
+    font-weight:500%;
+}
+
+
